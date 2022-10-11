@@ -30,7 +30,7 @@ I wanted to build this tool not only to manage my internship search more easily,
 ### Backend is built with:
     * MongoDb
     * NodeJS
-    * Express
+    * Express - to route and perform CRUD operations on MongoDB Atlas
 
 
 
