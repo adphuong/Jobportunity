@@ -13,13 +13,9 @@
 
 ## About The Project
 
-<img src="./jobportunityScreenshot.png" />
-
 Jobportunity is a web application that helps you manage your job search all in one place and track all your job applications and progress.
 
 I wanted to build this tool not only to organize my internship search more easily, but to gain some experience working with the MERN stack as well. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -33,8 +29,6 @@ I wanted to build this tool not only to organize my internship search more easil
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
+<img src="./jobportunityScreenshot.png" />
 
