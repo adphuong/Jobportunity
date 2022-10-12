@@ -29,7 +29,7 @@ I wanted to build this tool not only to organize my internship search more easil
 
 ### Backend/Server
   * driven by NodeJS utilizing Express to route and perform CRUD operations on MongoDB Atlas
-  * protected using JSON Web Tokens
+  * API is protected with JSON Web Tokens
 
 
 
