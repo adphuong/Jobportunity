@@ -29,6 +29,25 @@ I wanted to build this tool not only to organize my internship search more easil
 
 
 
+#### Email and Password Validation
+<img src="./gifs/email_password_validation.gif" />
 
-<img src="./jobportunityScreenshot.png" />
 
+#### Sign up for account
+<img src="./gifs/jobportunity_signup.gif" />
+
+
+#### Accounts hold their own data
+<img src="./gifs/switching_accounts.gif" />
+
+#### Add New Job
+<img src="./gifs/add_job.gif" />
+
+#### Clicking on position opens job listing (if applicable)
+<img src="./gifs/opening_joblink.gif" />
+
+#### Updating Job
+<img src="./gifs/updating_job.gif" />
+
+#### Deleting Job
+<img src="./gifs/deleting_job.gif" />
