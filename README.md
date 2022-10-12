@@ -15,7 +15,7 @@
 
 <img src="./jobportunityScreenshot.png" />
 
-Jobportunity is a web application that helps you manage your job search all in one place and keep track of all your job applications and progress.
+Jobportunity is a web application that helps you manage your job search all in one place and track all your job applications and progress.
 
 I wanted to build this tool not only to organize my internship search more easily, but to gain some experience working with the MERN stack as well. 
 
