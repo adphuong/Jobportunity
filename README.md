@@ -23,14 +23,13 @@ I wanted to build this tool not only to manage my internship search more easily,
 
 
 
-### Frontend built with:
-    * ReactJS
-    * Bootstrap
+### Frontend/Client
+  * is built with ReactJS and Bootstrap
+  * is a single page that displays a table of data that is fetched from MongoDB Atlas
 
-### Backend is built with:
-    * MongoDb
-    * NodeJS
-    * Express - to route and perform CRUD operations on MongoDB Atlas
+### Backend/Server
+  * is driven by NodeJS utilizing Express to route and perform CRUD operations on MongoDB Atlas
+  * routes are protected using JSON Web Tokens
 
 
 
