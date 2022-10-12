@@ -27,15 +27,10 @@ I wanted to build this tool not only to organize my internship search more easil
   * driven by NodeJS utilizing Express to route and perform CRUD operations on MongoDB Atlas
   * API is protected with JSON Web Tokens
 
+<br><br>
 
-
-#### Email and Password Validation
+#### Sign up & Email and Password Validation
 <img src="./gifs/email_password_validation.gif" />
-
-
-#### Sign up for account
-<img src="./gifs/jobportunity_signup.gif" />
-
 
 #### Accounts hold their own data
 <img src="./gifs/switching_accounts.gif" />
